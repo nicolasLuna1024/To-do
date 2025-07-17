@@ -96,41 +96,27 @@ CREATE TABLE tasks (
 
 ### 🔐 Inicio de Sesión
 <!-- Agregar captura de pantalla del login aquí -->
-*Pantalla de autenticación con opciones de registro e inicio de sesión*
+<img width="387" height="839" alt="image" src="https://github.com/user-attachments/assets/d53caa97-2ab7-441b-9e25-edd9a1c457ba" />
+
 
 ### 📱 Lista de Tareas
 <!-- Agregar captura de pantalla de la lista de tareas aquí -->
-*Vista principal mostrando tareas personales y compartidas organizadas en pestañas*
+<img width="389" height="839" alt="image" src="https://github.com/user-attachments/assets/5e2805b4-826d-4830-83d6-5296edea66fe" />
+
 
 ### ➕ Formulario para Agregar Nuevas Tareas
 <!-- Agregar captura de pantalla del formulario aquí -->
-*Formulario completo con campos para título, fecha, imagen y configuración de visibilidad*
+<img width="388" height="839" alt="image" src="https://github.com/user-attachments/assets/c6bbaf9e-5394-4975-9a23-d684a279974e" />
+
 
 ### 📸 Gestión de Imágenes
 <!-- Agregar captura de pantalla de la selección de imágenes aquí -->
-*Opciones para capturar desde cámara o seleccionar desde galería*
+<img width="374" height="346" alt="image" src="https://github.com/user-attachments/assets/d62fd9ef-a562-42ad-b8c3-9d21d3bb2767" />
+
 
 ### 🤝 Tareas Compartidas
 <!-- Agregar captura de pantalla de tareas compartidas aquí -->
-*Vista de tareas colaborativas con indicadores visuales*
-
-## 💾 Transacciones con Supabase
-
-### 🔐 Autenticación
-<!-- Agregar captura de pantalla de transacciones de auth aquí -->
-*Dashboard de Supabase mostrando usuarios autenticados*
-
-### 📊 Base de Datos - Tabla Tasks
-<!-- Agregar captura de pantalla de la tabla tasks aquí -->
-*Registros de tareas almacenados en PostgreSQL*
-
-### 🗄️ Storage - Imágenes
-<!-- Agregar captura de pantalla del storage aquí -->
-*Bucket de imágenes con archivos subidos automáticamente*
-
-### 📈 Logs y Monitoreo
-<!-- Agregar captura de pantalla de logs aquí -->
-*Logs de transacciones y actividad en tiempo real*
+<img width="385" height="837" alt="image" src="https://github.com/user-attachments/assets/f4a440bc-e4ae-4049-9aec-6eac546033f3" />
 
 ## 🚀 Instalación y Configuración
 
